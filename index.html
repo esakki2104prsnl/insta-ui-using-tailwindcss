@@ -16,10 +16,10 @@
     <link href="./assets/css/output.css" rel="stylesheet">
 </head>
 
-<body>
+<body class="bg-gradient-to-t from-yellow-400 via-pink-600 to-red-600">
     <section class=" bg-black max-w-md mx-auto my-auto">
         <!-- Insta Header -->
-        <header class=" text-white flex items-center justify-between px-3">
+        <header class=" text-white flex items-center justify-between px-3 cursor-pointer">
             <div class="flex ">
                 <svg xmlns="http://www.w3.org/2000/svg" width="112.22" height="32" viewBox="0 0 512 146" class="">
                     <path fill="currentColor"
@@ -51,10 +51,15 @@
         <hr class="border-gray-600">
 
         <!-- Your Story -->
-        <section class="my-2 px-3 flex gap-1">
-            <div class="flex flex-col items-center ">
+        <section class="my-2 px-3 flex gap-1 hover:cur">
+            <div class="flex flex-col items-center relative">
                 <img src="./assets/img/User/Esakki-profile.jpg" alt="my-story" width="64"
                     class="rounded-full border-2 p-0.5 border-green-600 ">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
+                    class="absolute bottom-6 left-10  text-blue-600 bg-white rounded-full border-1">
+                    <path fill="currentColor"
+                        d="M11 17h2v-4h4v-2h-4V7h-2v4H7v2h4v4Zm1 5q-2.075 0-3.9-.788t-3.175-2.137q-1.35-1.35-2.137-3.175T2 12q0-2.075.788-3.9t2.137-3.175q1.35-1.35 3.175-2.137T12 2q2.075 0 3.9.788t3.175 2.137q1.35 1.35 2.138 3.175T22 12q0 2.075-.788 3.9t-2.137 3.175q-1.35 1.35-3.175 2.138T12 22Z" />
+                </svg>
                 <p class="text-xs p-1 text-white">Your Story</p>
             </div>
 
@@ -71,7 +76,7 @@
             </div>
 
             <div class="flex flex-col items-center">
-                <img src="./assets/img/User/cdn.png" alt="cdn"
+                <img src="./assets/img/User/cd-net.jpg" alt="cdn"
                     class="w-16  h-16 object-cover rounded-full border-1 bg-gradient-to-t from-yellow-300 via-pink-600 to-red-600 p-0.5">
                 <p class="text-xs p-1 text-white">CyberDude..</p>
             </div>
@@ -127,8 +132,9 @@
             </div>
 
             <div class=" p-2 flex justify-between">
-                <div class="flex justify-center items-center gap-5">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
+                <div class="flex justify-center items-center gap-5 hover:cursor-pointer">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"
+                        class="hover:text-red-600">
                         <path fill="currentColor"
                             d="m12 21l-1.45-1.3q-2.525-2.275-4.175-3.925T3.75 12.812Q2.775 11.5 2.388 10.4T2 8.15Q2 5.8 3.575 4.225T7.5 2.65q1.3 0 2.475.55T12 4.75q.85-1 2.025-1.55t2.475-.55q2.35 0 3.925 1.575T22 8.15q0 1.15-.388 2.25t-1.362 2.412q-.975 1.313-2.625 2.963T13.45 19.7L12 21Zm0-2.7q2.4-2.15 3.95-3.688t2.45-2.674q.9-1.138 1.25-2.026T20 8.15q0-1.5-1-2.5t-2.5-1q-1.175 0-2.175.662T12.95 7h-1.9q-.375-1.025-1.375-1.688T7.5 4.65q-1.5 0-2.5 1t-1 2.5q0 .875.35 1.763t1.25 2.025q.9 1.137 2.45 2.675T12 18.3Zm0-6.825Z" />
                     </svg>
@@ -142,7 +148,8 @@
                             d="m1.5 9l16-6.535L14.7 17zm16-6.5l-11 10m0 0v5l3-3" />
                     </svg>
                 </div>
-                <div><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
+                <div class="hover:cursor-pointer"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"
+                        viewBox="0 0 24 24">
                         <path fill="currentColor"
                             d="M5 21V5q0-.825.588-1.413T7 3h10q.825 0 1.413.588T19 5v16l-7-3l-7 3Zm2-3.05l5-2.15l5 2.15V5H7v12.95ZM7 5h10H7Z" />
                     </svg></div>
@@ -211,7 +218,7 @@
 
             <!-- Like comment share and save -->
             <div class=" p-2 flex justify-between">
-                <div class="flex justify-center items-center gap-5">
+                <div class="flex justify-center items-center gap-5 hover:cursor-pointer">
                     <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"
                         class="text-red-600">
                         <path fill="currentColor"
@@ -227,7 +234,7 @@
                             d="m1.5 9l16-6.535L14.7 17zm16-6.5l-11 10m0 0v5l3-3" />
                     </svg>
                 </div>
-                <div>
+                <div class="hover:cursor-pointer">
                     <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"
                         class="text-white">
                         <path fill="currentColor"
