@@ -11,15 +11,12 @@ Welcome to #Day16-Instagram UI Challenge, brought to you by CyberDude Network! I
 
 
 ## Table of Contents
-- [Image Alt Text](./assets/img/instagram-output.png)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Getting Started
 
 ### Prerequisites
 
