@@ -3,11 +3,11 @@
 Welcome to #Day16-Instagram UI Challenge, brought to you by CyberDude Network! In this challenge, we will embark on a creative journey to recreate the user interface of the popular social media platform, Instagram, using the power of Tailwind CSS.
 
 ## Live Link and CLone Link
-    [Live Link](https://esakki2104prsnl.github.io/insta-ui-using-tailwindcss/)
+  [Live Link](https://esakki2104prsnl.github.io/insta-ui-using-tailwindcss/)
 
-    [Clone Link](https://github.com/esakki2104prsnl/insta-ui-using-tailwindcss.git)
+  [Clone Link](https://github.com/esakki2104prsnl/insta-ui-using-tailwindcss.git)
 
-![Image Alt Text](./assets/img/instagram-output.png)
+![Image Alt Text](./)
 
 
 ## Table of Contents
