@@ -7,7 +7,7 @@ Welcome to #Day16-Instagram UI Challenge, brought to you by CyberDude Network! I
 
   [Clone Link](https://github.com/esakki2104prsnl/insta-ui-using-tailwindcss.git)
 
-![Image Alt Text](./)
+![Image Alt Text](./assets/img/instagram-output.png)
 
 
 ## Table of Contents
