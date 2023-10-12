@@ -2,18 +2,11 @@
 
 Welcome to #Day16-Instagram UI Challenge, brought to you by CyberDude Network! In this challenge, we will embark on a creative journey to recreate the user interface of the popular social media platform, Instagram, using the power of Tailwind CSS.
 
-## Live Link and CLone Link
-  [Live Link](https://esakki2104prsnl.github.io/insta-ui-using-tailwindcss/)
-
-  [Clone Link](https://github.com/esakki2104prsnl/insta-ui-using-tailwindcss.git)
-
-![Image Alt Text](./assets/img/instagram-output.png)
-
-
 ## Table of Contents
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-- [Usage](#usage)
+- [Demo](#demo)
+- [Internship](#internship)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
@@ -22,9 +15,16 @@ Welcome to #Day16-Instagram UI Challenge, brought to you by CyberDude Network! I
 
 Please install Node latest version and NPM Dependancies
 
-## Usage
+## Demo
+ 🔗 [Repo Link](#https://github.com/esakki2104prsnl/insta-ui-using-tailwindcss) 
 
-Provide examples or usage instructions for your project. Explain how to use its features.
+ 🔗 [Live Link](#https://esakki2104prsnl.github.io/insta-ui-using-tailwindcss/) 
+
+![Image Alt Text](./assets/img/instagram-output.png)
+
+## Internship
+This internship is provided by [CyberDude Networks Pvt. Ltd.](https://youtube.com/cyberdudenetworks) as part of the 6-Month Free Internship program, a skill development initiative organized to enhance participants' skills. Mentoring was provided by [Mr. Anbuselvan Rocky](https://instagram.com/anbuselvanrocky). For more information, [you can contact CyberDude Networks here](https://cyberdudenetworks.com).
+
 
 ## Features
 To participate in this challenge, follow these steps:
@@ -44,7 +44,7 @@ We welcome contributions from the community! If you have suggestions, improvemen
 
 ## License
 
-MIT License use for this Project
+[MIT License](./MIT%20License.md)
 
 ## Acknowledgments
 
@@ -53,10 +53,6 @@ To Use this project
 - Node 
 - NPM Dependancies 
 
-## Authors
-Authour- Esakki M
-
-## Support or Contact
-
+### Support or Contact
 Authour Mail Id: esakki2104prsnl@gmail.com
 
